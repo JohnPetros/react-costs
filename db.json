@@ -1,0 +1,75 @@
+{
+  "projects": [
+    {
+      "name": "projeto teste 3 atualizadíssimo",
+      "budget": "2500",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 3000,
+      "services": [
+        {
+          "name": "Serviço novo",
+          "id": "ae8259b0-de43-4bed-90d8-d737abb007e0",
+          "cost": "2500",
+          "description": "Serviço complexo demais para ter descrição"
+        },
+        {
+          "name": "Serviço PHP",
+          "description": "Contratar um dev PHP",
+          "cost": "500",
+          "id": "f9d7381d-287c-4d0d-9e9b-b19ee5437ed2"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Projeto Novíssimo Atualizado com força denovo",
+      "budget": "2500",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 150,
+      "services": [],
+      "id": 5
+    },
+    {
+      "name": "João Pedro Carvalho dos Santos",
+      "budget": "25",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 14,
+      "services": [
+        {
+          "name": "João Pedro",
+          "cost": "14",
+          "decription": "nao sei",
+          "id": "cb95e7ca-8538-4648-ae0b-708ac59efeca"
+        }
+      ],
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
