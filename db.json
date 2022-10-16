@@ -31,8 +31,27 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 150,
-      "services": [],
+      "cost": 1350,
+      "services": [
+        {
+          "name": "teste",
+          "cost": "200",
+          "decription": "teste",
+          "id": "d49d0e4f-66ff-450e-a107-b348b614e401"
+        },
+        {
+          "name": "teste",
+          "cost": "500",
+          "decription": "nao sei",
+          "id": "3e0143e9-2b10-4b6a-bb08-c4dd19e4b09e"
+        },
+        {
+          "name": "teste",
+          "cost": "500",
+          "decription": "nao sei",
+          "id": "c7b42d6c-bc02-4cfa-9b1a-d2f407e63ccf"
+        }
+      ],
       "id": 5
     },
     {
@@ -42,13 +61,13 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 14,
+      "cost": 20,
       "services": [
         {
-          "name": "João Pedro",
-          "cost": "14",
-          "decription": "nao sei",
-          "id": "cb95e7ca-8538-4648-ae0b-708ac59efeca"
+          "name": "teste",
+          "cost": "20",
+          "decription": "teste",
+          "id": "4417fb3c-1375-4790-8bd0-fddfb7bfba97"
         }
       ],
       "id": 6

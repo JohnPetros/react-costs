@@ -5,7 +5,7 @@ import Container from "../../components/layout/Container";
 import Loading from "../../components/layout/Loading";
 import Message from "../../components/layout/Message";
 import ProjectForm from "../../components/Project/ProjectForm";
-import ServiceForm from "../../components/service/serviceForm";
+import ServiceForm from "../../components/service/ServiceForm";
 import ServiceCard from "../../components/service/ServiceCard";
 import "./style.css";
 
